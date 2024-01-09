@@ -230,25 +230,26 @@ font-weight: 700;
 }
   
 
- 
-
-.section-right{
-    background-image: url("Rectangle 1.png");
+ .section-7{
+    background-image: url("rectangle2.png");
+    height: 665px;
     background-repeat: no-repeat;
-    background-position: top;
-    
-    
-    width:600px;
-height: 433px;
-float: right;
+    background-position: bottom;
+    margin-top: 100px;
+ }
 
-}
 .section-right-img{
-    margin-right:500px;
+    float:right;
 }
-
-
-
+.discount{
+    float:right;
+    
+}
+.section-left{
+    float: left;
+    height: 400px;
+    width:300px;
+}
 
 
 .banner-8{
